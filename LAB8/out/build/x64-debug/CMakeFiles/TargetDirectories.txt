@@ -1,0 +1,6 @@
+D:/Users/User/source/repos/LabaEight/out/build/x64-debug/CMakeFiles/LAB8.dir
+D:/Users/User/source/repos/LabaEight/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/Users/User/source/repos/LabaEight/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/Users/User/source/repos/LabaEight/out/build/x64-debug/LabaEight/CMakeFiles/LabaEight.dir
+D:/Users/User/source/repos/LabaEight/out/build/x64-debug/LabaEight/CMakeFiles/edit_cache.dir
+D:/Users/User/source/repos/LabaEight/out/build/x64-debug/LabaEight/CMakeFiles/rebuild_cache.dir
