@@ -1,0 +1,6 @@
+D:/Users/User/source/repos/LabaSeven/out/build/x64-debug/CMakeFiles/LAB7.dir
+D:/Users/User/source/repos/LabaSeven/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/Users/User/source/repos/LabaSeven/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/Users/User/source/repos/LabaSeven/out/build/x64-debug/LabaSeven/CMakeFiles/LabaSeven.dir
+D:/Users/User/source/repos/LabaSeven/out/build/x64-debug/LabaSeven/CMakeFiles/edit_cache.dir
+D:/Users/User/source/repos/LabaSeven/out/build/x64-debug/LabaSeven/CMakeFiles/rebuild_cache.dir
